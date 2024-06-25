@@ -2,6 +2,8 @@
 
 A Python project to convert MP3 files to WAV and transcribe the audio using Google Web Speech API, with a progress bar for both conversion and transcription processes.
 
+> **Note:** This project was created with the assistance of AI.
+
 ## Setup
 
 1. **Clone the repository**:
@@ -36,3 +38,7 @@ A Python project to convert MP3 files to WAV and transcribe the audio using Goog
 
 - Ensure you have a stable internet connection for the Google Web Speech API to work.
 - The script handles audio files longer than 60 seconds by splitting them into smaller chunks before transcription.
+
+## Acknowledgments
+
+This project was created with the assistance of AI.
