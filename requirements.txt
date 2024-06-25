@@ -1,0 +1,4 @@
+pydub
+SpeechRecognition
+tqdm
+colorama
