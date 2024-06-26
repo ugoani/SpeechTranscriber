@@ -4,6 +4,28 @@ A Python project to convert MP3 files to WAV and transcribe the audio using Goog
 
 > **Note:** This project was created with the assistance of AI.
 
+## Table of Contents
+
+- [Project Description](#project-description)
+- [Features](#features)
+- [Setup](#setup)
+- [Usage](#usage)
+- [Screenshots](#screenshots)
+- [Contributing](#contributing)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+
+## Project Description
+
+Speech Transcriber is a tool designed to help users convert MP3 audio files to WAV format and transcribe the audio into text. It utilizes the Google Web Speech API to provide accurate transcriptions. The project includes a progress bar to indicate the status of conversion and transcription.
+
+## Features
+
+- Convert MP3 files to WAV format
+- Transcribe audio to text using Google Web Speech API
+- Progress bar for conversion and transcription processes
+- Handles audio files longer than 60 seconds by splitting into chunks
+
 ## Setup
 
 1. **Clone the repository**:
@@ -34,10 +56,21 @@ A Python project to convert MP3 files to WAV and transcribe the audio using Goog
 
 3. **Check the `transcriptions` folder** for the output text file containing the transcription.
 
-## Notes
+## Screenshots
 
-- Ensure you have a stable internet connection for the Google Web Speech API to work.
-- The script handles audio files longer than 60 seconds by splitting them into smaller chunks before transcription.
+![Progress Bar](screenshot1.png)
+*Screenshot showing the progress bar during conversion.*
+
+![Transcription Result](screenshot2.png)
+*Screenshot showing the final transcription output.*
+
+## Contributing
+
+Contributions are welcome! Please open an issue or submit a pull request for any improvements.
+
+## License
+
+This project is licensed under the MIT License.
 
 ## Acknowledgments
 
