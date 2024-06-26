@@ -58,10 +58,10 @@ Speech Transcriber is a tool designed to help users convert MP3 audio files to W
 
 ## Screenshots
 
-![Progress Bar](screenshot1.png)
+![Progress Bar](screenshots/progress_bar.png)
 *Screenshot showing the progress bar during conversion.*
 
-![Transcription Result](screenshot2.png)
+![Transcription Result](screenshots/transcription_result.png)
 *Screenshot showing the final transcription output.*
 
 ## Contributing
