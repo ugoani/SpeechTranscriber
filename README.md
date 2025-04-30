@@ -1,5 +1,7 @@
 # Speech Transcriber
 
+> 🛠️ This project was built as part of my cybersecurity learning journey — to explore Python scripting, automation, and speech-to-text tooling. It simulates real-world use cases like automated transcriptions of SOC analyst meetings, red team briefings, or command center logs in ICS/OT environments.
+
 A Python project to convert MP3 files to WAV and transcribe the audio using Google Web Speech API, with a progress bar for both conversion and transcription processes.
 
 > **Note:** This project was created with the assistance of AI.
